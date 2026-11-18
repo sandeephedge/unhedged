@@ -9,6 +9,7 @@ Everything here is a plain markdown file you can read in a few minutes.  No inst
 | Skill | What it does |
 |---|---|
 | [feynman](skills/feynman/) | Teaches you anything one concept at a time.  You explain each one back with the source closed, and it patches only the exact spot you went vague. |
+| [vault-drift](skills/vault-drift/) | Six numbers that tell you whether your notes vault is getting messy, and the exact paths to fix when it is. |
 
 ## Architecture
 
